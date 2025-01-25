@@ -17,7 +17,6 @@
 - Dependencies listed in `requirements.txt`:
 
 # How to install 
-
 - pip install -r requirements.txt
 
 # Contact us
