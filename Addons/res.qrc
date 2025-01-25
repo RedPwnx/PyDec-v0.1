@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="background">
+    <file>back.jpeg</file>
+    <file>exit.png</file>
+    <file>minimize.png</file>
+  </qresource>
+</RCC>
